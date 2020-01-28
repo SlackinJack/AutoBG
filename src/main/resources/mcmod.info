@@ -1,0 +1,16 @@
+[
+{
+  "modid": "autobg",
+  "name": "AutoBG",
+  "description": "Auto 'gg' text, except you can change it to whatever you want! For the Hypixel Network. Crafted with love and tears.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": ["https://github.com/SlackinJack"],
+  "updateUrl": "",
+  "authorList": ["Slackin' Jack #0001"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
